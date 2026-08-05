@@ -69,6 +69,12 @@ This project is an interactive HR Analytics Dashboard developed using Microsoft 
 - Business Intelligence
 - Data Visualization
 
+## 📊 Dataset
+
+This project uses a publicly available HR Analytics dataset sourced from Kaggle for learning and portfolio purposes.
+
+Dataset Source:
+https://www.kaggle.com/
 ---
 
 ## 👨‍💻 Author
